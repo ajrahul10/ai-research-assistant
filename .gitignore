@@ -1,0 +1,14 @@
+# Start Generation Here
+# Ignore Python environment files
+*.env
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+# Ignore virtual environment directories
+venv/
+env/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# End Generation Here
+
+vector_index/
