@@ -6,3 +6,5 @@ openai==1.75.0
 pypdf==5.4.0
 python-dotenv==1.1.0
 tiktoken==0.9.0
+streamlit
+pymupdf
